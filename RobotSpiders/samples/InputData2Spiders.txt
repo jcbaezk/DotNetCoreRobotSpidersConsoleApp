@@ -1,0 +1,5 @@
+7 15
+2 4 Left
+FLFLFRFFLF
+5 5 Up
+FRFFLFRF

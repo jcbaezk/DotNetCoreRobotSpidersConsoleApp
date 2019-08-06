@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IO.Abstractions" Version="6.0.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RobotSpiders.Core\RobotSpiders.Core.csproj" />
+    <ProjectReference Include="..\RobotSpiders.InputReaders\RobotSpiders.InputReaders.csproj" />
+  </ItemGroup>
+
+</Project>
